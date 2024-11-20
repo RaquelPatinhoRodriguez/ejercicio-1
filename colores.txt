@@ -2,3 +2,5 @@ turquesa
 blanco roto
 ceylan
 conrflower blue
+mandarina
+verde lima
