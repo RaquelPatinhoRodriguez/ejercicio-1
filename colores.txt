@@ -4,3 +4,5 @@ ceylan
 conrflower blue
 mandarina
 verde lima
+raspberry
+rojo teja
